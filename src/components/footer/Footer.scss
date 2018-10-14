@@ -1,0 +1,22 @@
+.footer {
+  background-color: $black;
+  color: $white;
+}
+
+.footer__box {
+  border-top: solid 2px $green;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+
+  text-align: center;
+  line-height: 150%;
+}
+
+.footer__icon {
+  font-size: $large;
+}
+
+.footer__icon--red {
+  color: red;
+}
